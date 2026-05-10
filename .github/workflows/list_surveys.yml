@@ -26,3 +26,6 @@ jobs:
         env:
           QUALTRICS_TOKEN: ${{ secrets.QUALTRICS_TOKEN }}
           QUALTRICS_DATACENTER: ${{ secrets.QUALTRICS_DATACENTER }}
+
+
+          # trigger first run
